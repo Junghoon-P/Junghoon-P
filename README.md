@@ -32,11 +32,14 @@ let jungHoonPark = {
 
 ![JungHoon's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Junghoon-P&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junghoon-P&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junghoon-P&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </div>
 <br>
 <br>
+
+***
+
 <h3 align="center"> Me 🧑🏻‍💻 </h3>
 <br>
 <p align="center">
