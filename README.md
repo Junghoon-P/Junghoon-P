@@ -26,18 +26,24 @@ let jungHoonPark = {
     funFact: "I majored Visual-Design and Clothing & Textiles in Yonsei University"
 };
 ```
+<br />
+<br />
+<div align="center">
 
-<!--
-**Junghoon-P/Junghoon-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![JungHoon's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Junghoon-P&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junghoon-P&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+</div>
+<br>
+<br>
+<h3 align="center"> Me 🧑🏻‍💻 </h3>
+<br>
+<p align="center">
+  <a href="https://dpark-log.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://dpark-log.tistory.com"/></a>&nbsp
+  <a href="mailto:qkr0454@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+</p>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunghoon-P&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
