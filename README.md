@@ -11,7 +11,6 @@
  \|________|\|_______|\|__| \|__|\|_______|\|__|\|__|\|_______|\|_______|\|__| \|__|
 </pre>                                                    
 <br />
-<br />
 
 ```javascript
 let jungHoonPark = {
@@ -49,7 +48,7 @@ let jungHoonPark = {
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
-<br>
+<br/>
 <p align="center">
   <a href="https://dpark-log.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://dpark-log.tistory.com"/></a>&nbsp
   <a href="mailto:qkr0454@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>&nbsp
