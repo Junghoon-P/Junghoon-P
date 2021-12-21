@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
 <pre>
     ___  ___  ___  ________   ________  ___  ___  ________  ________  ________      
    |\  \|\  \|\  \|\   ___  \|\   ____\|\  \|\  \|\   __  \|\   __  \|\   ___  \    
@@ -7,6 +10,8 @@
 \ \________\ \_______\ \__\\ \__\ \_______\ \__\ \__\ \_______\ \_______\ \__\\ \__\
  \|________|\|_______|\|__| \|__|\|_______|\|__|\|__|\|_______|\|_______|\|__| \|__|
 </pre>                                                    
+<br />
+<br />
 
 ```javascript
 let jungHoonPark = {
@@ -41,6 +46,9 @@ let jungHoonPark = {
 ***
 
 <h3 align="center"> More about Me 🧑🏻‍💻 </h3>
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+</div>
 <br>
 <p align="center">
   <a href="https://dpark-log.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://dpark-log.tistory.com"/></a>&nbsp
@@ -50,4 +58,5 @@ let jungHoonPark = {
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunghoon-P&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
+
 
