@@ -15,7 +15,7 @@
 ```javascript
 let jungHoonPark = {
     pronouns: "He" | "his",
-    askMeAbout: ["ios dev", "tech", "UX/UI-design", "Branding", "Fashion-marketing"],
+    askMeAbout: ["ios dev", "front-end dev" "tech", "UX/UI-design", "Branding", "Fashion-marketing"],
     code: ["Swift", "Javascript", "TypeScript", "HTML", "CSS", "SCSS", "styled-components"],
     technologies: {
         ios: {
