@@ -29,7 +29,7 @@ let jungHoonPark = {
         }
     },
     architecture: ["Serverless Architecture", "Single page applications"],
-    currentFocus: "React, Next, Vanilla Javascript",
+    currentFocus: "SwiftUi, UIkit, Next, Vanilla Javascript",
     funFact: "I majored Visual-Design and Clothing & Textiles in Yonsei University"
 };
 ```
