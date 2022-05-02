@@ -15,9 +15,12 @@
 ```javascript
 let jungHoonPark = {
     pronouns: "He" | "his",
-    askMeAbout: ["web dev", "tech", "UX/UI-design", "Branding", "Fashion-marketing"],
-    code: ["Javascript", "TypeScript", "HTML", "CSS", "SCSS", "styled-components"],
+    askMeAbout: ["ios dev", "tech", "UX/UI-design", "Branding", "Fashion-marketing"],
+    code: ["Swift", "Javascript", "TypeScript", "HTML", "CSS", "SCSS", "styled-components"],
     technologies: {
+        ios: {
+            swift: ["SwiftUi"]
+        },
         frontEnd: {
             js: ["React.JS", "Next.JS", "Vanilla JS"],
         },
