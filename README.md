@@ -16,20 +16,20 @@
 let jungHoonPark = {
     pronouns: "He" | "his",
     askMeAbout: ["ios dev", "front-end dev" "tech", "UX/UI-design", "Branding", "Fashion-marketing"],
-    code: ["Javascript", "Swift", "TypeScript", "HTML", "CSS", "SCSS", "styled-components"],
+    code: ["Javascript", "TypeScript", "Swift", "HTML", "CSS", "SCSS", "styled-components"],
     technologies: {
-        ios: {
-            swift: ["SwiftUi"]
-        },
         frontEnd: {
             js: ["React.JS", "Next.JS", "Vanilla JS"],
         },
+        ios: {
+            swift: ["SwiftUi"]
+        },
         tools: {
-            design: ["Illustrator", "Photoshop", "InDesign", "Figma", "Zeplin"]
+            design: ["Illustrator", "Photoshop", "InDesign", "Figma", "Jira"]
         }
     },
     architecture: ["Serverless Architecture", "Single page applications"],
-    currentFocus: "SwiftUi, UIkit, Next, Vanilla Javascript",
+    currentFocus: "Next.js, React-Query, framer, SwiftUi, UIkit",
     funFact: "I majored Visual-Design and Clothing & Textiles in Yonsei University"
 };
 ```
