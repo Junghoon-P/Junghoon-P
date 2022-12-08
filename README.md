@@ -15,7 +15,7 @@
 ```javascript
 let jungHoonPark = {
     pronouns: "He" | "his",
-    askMeAbout: ["ios dev", "front-end dev" "tech", "UX/UI-design", "Branding", "Fashion-marketing"],
+    askMeAbout: ["front-end dev", "ios dev" "tech", "UX/UI-design", "Branding", "Fashion-marketing"],
     code: ["Javascript", "TypeScript", "Swift", "HTML", "CSS", "SCSS", "styled-components"],
     technologies: {
         frontEnd: {
@@ -30,7 +30,7 @@ let jungHoonPark = {
     },
     architecture: ["Serverless Architecture", "Single page applications"],
     currentFocus: "Next.js, React-Query, framer, SwiftUi, UIkit",
-    funFact: "I majored Visual-Design and Clothing & Textiles in Yonsei University"
+    funFact: "I majored Visual-Design and Clothing & Textiles in Yonsei University and complete a course Apple Developer Academy @ POSTECH"
 };
 ```
 <br />
